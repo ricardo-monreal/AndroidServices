@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
                String [] addresses = new String [1];
                addresses[0] = et_data.getText().toString();
-               composeEmail(addresses, "Hello from Shad");
+               composeEmail(addresses, "Hello from Ricardo");
            }
        });
 
